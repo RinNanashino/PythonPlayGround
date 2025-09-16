@@ -1,2 +1,2 @@
 # PythonPlayGround
-Lern for Python Program.
+Learn for Python Program.
